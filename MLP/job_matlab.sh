@@ -1,0 +1,1 @@
+time /opt/MATLAB/R2012a/bin/matlab -nosplash <Example.m> run.log

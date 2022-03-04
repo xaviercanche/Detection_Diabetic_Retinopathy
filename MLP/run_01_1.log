@@ -1,0 +1,1949 @@
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012a (7.14.0.739) 64-bit (glnxa64)
+                              February 9, 2012
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.9006%)
+      Accuracy:  0.80901
+   Sensitivity:  0.8237
+Especificidad :  0.79195
+          PPV :  0.82133
+           Fm :  0.82251
+           GM :  0.80767
+          AGM :  0.792
+          AUC :  0.89126
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.0559%)
+      Accuracy:  0.81056
+   Sensitivity:  0.80282
+Especificidad :  0.82007
+          PPV :  0.8457
+           Fm :  0.8237
+           GM :  0.8114
+          AGM :  0.82004
+          AUC :  0.8926
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.7453%)
+      Accuracy:  0.80745
+   Sensitivity:  0.80229
+Especificidad :  0.81356
+          PPV :  0.83582
+           Fm :  0.81871
+           GM :  0.80791
+          AGM :  0.81354
+          AUC :  0.88673
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.0559%)
+      Accuracy:  0.81056
+   Sensitivity:  0.82235
+Especificidad :  0.79661
+          PPV :  0.82709
+           Fm :  0.82471
+           GM :  0.80938
+          AGM :  0.79665
+          AUC :  0.88969
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.8509%)
+      Accuracy:  0.83851
+   Sensitivity:  0.84682
+Especificidad :  0.82886
+          PPV :  0.85174
+           Fm :  0.84928
+           GM :  0.83779
+          AGM :  0.82889
+          AUC :  0.90663
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.5217%)
+      Accuracy:  0.81522
+   Sensitivity:  0.81953
+Especificidad :  0.81046
+          PPV :  0.82687
+           Fm :  0.82318
+           GM :  0.81498
+          AGM :  0.81047
+          AUC :  0.90823
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.2112%)
+      Accuracy:  0.81211
+   Sensitivity:  0.79272
+Especificidad :  0.83624
+          PPV :  0.85758
+           Fm :  0.82387
+           GM :  0.81419
+          AGM :  0.83616
+          AUC :  0.89664
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (79.9689%)
+      Accuracy:  0.79969
+   Sensitivity:  0.80734
+Especificidad :  0.7918
+          PPV :  0.8
+           Fm :  0.80365
+           GM :  0.79953
+          AGM :  0.79182
+          AUC :  0.89352
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.1242%)
+      Accuracy:  0.80124
+   Sensitivity:  0.80845
+Especificidad :  0.79239
+          PPV :  0.82709
+           Fm :  0.81766
+           GM :  0.80038
+          AGM :  0.79242
+          AUC :  0.88264
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.677%)
+      Accuracy:  0.81677
+   Sensitivity:  0.8
+Especificidad :  0.83612
+          PPV :  0.84923
+           Fm :  0.82388
+           GM :  0.81786
+          AGM :  0.83606
+          AUC :  0.8912
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.2981%)
+      Accuracy:  0.82298
+   Sensitivity:  0.8144
+Especificidad :  0.83392
+          PPV :  0.86217
+           Fm :  0.83761
+           GM :  0.82411
+          AGM :  0.83389
+          AUC :  0.90125
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.8509%)
+      Accuracy:  0.83851
+   Sensitivity:  0.87179
+Especificidad :  0.79863
+          PPV :  0.83836
+           Fm :  0.85475
+           GM :  0.83441
+          AGM :  0.79876
+          AUC :  0.9186
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (84.0062%)
+      Accuracy:  0.84006
+   Sensitivity:  0.83333
+Especificidad :  0.84859
+          PPV :  0.87464
+           Fm :  0.85349
+           GM :  0.84093
+          AGM :  0.84856
+          AUC :  0.91125
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.2298%)
+      Accuracy:  0.8323
+   Sensitivity:  0.82548
+Especificidad :  0.84099
+          PPV :  0.8688
+           Fm :  0.84659
+           GM :  0.8332
+          AGM :  0.84096
+          AUC :  0.89138
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (79.0373%)
+      Accuracy:  0.79037
+   Sensitivity:  0.78531
+Especificidad :  0.79655
+          PPV :  0.82493
+           Fm :  0.80463
+           GM :  0.79091
+          AGM :  0.79653
+          AUC :  0.87246
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.9006%)
+      Accuracy:  0.80901
+   Sensitivity:  0.81871
+Especificidad :  0.79801
+          PPV :  0.82111
+           Fm :  0.81991
+           GM :  0.8083
+          AGM :  0.79805
+          AUC :  0.89863
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.8323%)
+      Accuracy:  0.81832
+   Sensitivity:  0.77841
+Especificidad :  0.86644
+          PPV :  0.8754
+           Fm :  0.82406
+           GM :  0.82125
+          AGM :  0.86628
+          AUC :  0.89417
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (85.0932%)
+      Accuracy:  0.85093
+   Sensitivity:  0.85924
+Especificidad :  0.84158
+          PPV :  0.85924
+           Fm :  0.85924
+           GM :  0.85037
+          AGM :  0.84161
+          AUC :  0.91103
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.3851%)
+      Accuracy:  0.83385
+   Sensitivity:  0.8309
+Especificidad :  0.83721
+          PPV :  0.85329
+           Fm :  0.84195
+           GM :  0.83405
+          AGM :  0.8372
+          AUC :  0.90908
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.5217%)
+      Accuracy:  0.81522
+   Sensitivity:  0.80692
+Especificidad :  0.82492
+          PPV :  0.84337
+           Fm :  0.82474
+           GM :  0.81587
+          AGM :  0.82489
+          AUC :  0.90101
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.677%)
+      Accuracy:  0.81677
+   Sensitivity:  0.80453
+Especificidad :  0.83162
+          PPV :  0.85285
+           Fm :  0.82799
+           GM :  0.81796
+          AGM :  0.83157
+          AUC :  0.89336
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.9006%)
+      Accuracy:  0.80901
+   Sensitivity:  0.81176
+Especificidad :  0.80592
+          PPV :  0.82388
+           Fm :  0.81778
+           GM :  0.80884
+          AGM :  0.80593
+          AUC :  0.88987
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.6087%)
+      Accuracy:  0.82609
+   Sensitivity:  0.81871
+Especificidad :  0.83444
+          PPV :  0.84848
+           Fm :  0.83333
+           GM :  0.82654
+          AGM :  0.83441
+          AUC :  0.89536
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.0745%)
+      Accuracy:  0.83075
+   Sensitivity:  0.82477
+Especificidad :  0.83706
+          PPV :  0.84259
+           Fm :  0.83359
+           GM :  0.83089
+          AGM :  0.83704
+          AUC :  0.8983
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.9006%)
+      Accuracy:  0.80901
+   Sensitivity:  0.81633
+Especificidad :  0.80066
+          PPV :  0.82353
+           Fm :  0.81991
+           GM :  0.80846
+          AGM :  0.80069
+          AUC :  0.89969
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.5217%)
+      Accuracy:  0.81522
+   Sensitivity:  0.81977
+Especificidad :  0.81
+          PPV :  0.83186
+           Fm :  0.82577
+           GM :  0.81487
+          AGM :  0.81002
+          AUC :  0.89149
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.764%)
+      Accuracy:  0.82764
+   Sensitivity:  0.81287
+Especificidad :  0.84437
+          PPV :  0.85538
+           Fm :  0.83358
+           GM :  0.82847
+          AGM :  0.84432
+          AUC :  0.91221
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.1429%)
+      Accuracy:  0.82143
+   Sensitivity:  0.81714
+Especificidad :  0.82653
+          PPV :  0.84866
+           Fm :  0.83261
+           GM :  0.82182
+          AGM :  0.82651
+          AUC :  0.89986
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.5217%)
+      Accuracy:  0.81522
+   Sensitivity:  0.80952
+Especificidad :  0.82143
+          PPV :  0.8318
+           Fm :  0.82051
+           GM :  0.81545
+          AGM :  0.82141
+          AUC :  0.89981
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.764%)
+      Accuracy:  0.82764
+   Sensitivity:  0.81948
+Especificidad :  0.83729
+          PPV :  0.85629
+           Fm :  0.83748
+           GM :  0.82834
+          AGM :  0.83726
+          AUC :  0.90032
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (79.8137%)
+      Accuracy:  0.79814
+   Sensitivity:  0.78992
+Especificidad :  0.80836
+          PPV :  0.8368
+           Fm :  0.81268
+           GM :  0.79909
+          AGM :  0.80833
+          AUC :  0.8728
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.5217%)
+      Accuracy:  0.81522
+   Sensitivity:  0.81556
+Especificidad :  0.81481
+          PPV :  0.83728
+           Fm :  0.82628
+           GM :  0.81519
+          AGM :  0.81482
+          AUC :  0.9002
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.5404%)
+      Accuracy:  0.8354
+   Sensitivity:  0.83832
+Especificidad :  0.83226
+          PPV :  0.84337
+           Fm :  0.84084
+           GM :  0.83529
+          AGM :  0.83227
+          AUC :  0.9004
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.677%)
+      Accuracy:  0.81677
+   Sensitivity:  0.81844
+Especificidad :  0.81481
+          PPV :  0.83776
+           Fm :  0.82799
+           GM :  0.81663
+          AGM :  0.81482
+          AUC :  0.89205
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.5217%)
+      Accuracy:  0.81522
+   Sensitivity:  0.84404
+Especificidad :  0.78549
+          PPV :  0.80233
+           Fm :  0.82265
+           GM :  0.81424
+          AGM :  0.78558
+          AUC :  0.88895
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.8509%)
+      Accuracy:  0.83851
+   Sensitivity:  0.84821
+Especificidad :  0.82792
+          PPV :  0.8432
+           Fm :  0.8457
+           GM :  0.83801
+          AGM :  0.82795
+          AUC :  0.91526
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.8323%)
+      Accuracy:  0.81832
+   Sensitivity:  0.80112
+Especificidad :  0.83972
+          PPV :  0.86145
+           Fm :  0.83019
+           GM :  0.82019
+          AGM :  0.83965
+          AUC :  0.90362
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.3665%)
+      Accuracy:  0.81366
+   Sensitivity:  0.77874
+Especificidad :  0.85473
+          PPV :  0.86306
+           Fm :  0.81873
+           GM :  0.81585
+          AGM :  0.8546
+          AUC :  0.90414
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.3851%)
+      Accuracy:  0.83385
+   Sensitivity:  0.86744
+Especificidad :  0.79461
+          PPV :  0.83149
+           Fm :  0.84908
+           GM :  0.83023
+          AGM :  0.79473
+          AUC :  0.90409
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (84.472%)
+      Accuracy:  0.84472
+   Sensitivity:  0.83735
+Especificidad :  0.85256
+          PPV :  0.85802
+           Fm :  0.84756
+           GM :  0.84492
+          AGM :  0.85254
+          AUC :  0.91411
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.764%)
+      Accuracy:  0.82764
+   Sensitivity:  0.83086
+Especificidad :  0.8241
+          PPV :  0.83832
+           Fm :  0.83458
+           GM :  0.82748
+          AGM :  0.82412
+          AUC :  0.9008
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.0559%)
+      Accuracy:  0.81056
+   Sensitivity:  0.8102
+Especificidad :  0.811
+          PPV :  0.83871
+           Fm :  0.82421
+           GM :  0.8106
+          AGM :  0.811
+          AUC :  0.90206
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.4348%)
+      Accuracy:  0.80435
+   Sensitivity:  0.81337
+Especificidad :  0.79298
+          PPV :  0.83191
+           Fm :  0.82254
+           GM :  0.80311
+          AGM :  0.79302
+          AUC :  0.88132
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.6087%)
+      Accuracy:  0.82609
+   Sensitivity:  0.80366
+Especificidad :  0.85878
+          PPV :  0.89244
+           Fm :  0.84573
+           GM :  0.83076
+          AGM :  0.85867
+          AUC :  0.90069
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.1429%)
+      Accuracy:  0.82143
+   Sensitivity:  0.7971
+Especificidad :  0.8495
+          PPV :  0.85938
+           Fm :  0.82707
+           GM :  0.82288
+          AGM :  0.84941
+          AUC :  0.90212
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.8323%)
+      Accuracy:  0.81832
+   Sensitivity:  0.78082
+Especificidad :  0.86738
+          PPV :  0.88509
+           Fm :  0.82969
+           GM :  0.82297
+          AGM :  0.86722
+          AUC :  0.89122
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.6087%)
+      Accuracy:  0.82609
+   Sensitivity:  0.80618
+Especificidad :  0.85069
+          PPV :  0.8697
+           Fm :  0.83673
+           GM :  0.82814
+          AGM :  0.85062
+          AUC :  0.89671
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.3665%)
+      Accuracy:  0.81366
+   Sensitivity:  0.81471
+Especificidad :  0.8125
+          PPV :  0.82934
+           Fm :  0.82196
+           GM :  0.8136
+          AGM :  0.8125
+          AUC :  0.88357
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.5217%)
+      Accuracy:  0.81522
+   Sensitivity:  0.77961
+Especificidad :  0.86121
+          PPV :  0.87888
+           Fm :  0.82628
+           GM :  0.8194
+          AGM :  0.86106
+          AUC :  0.90373
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.5217%)
+      Accuracy:  0.81522
+   Sensitivity:  0.79941
+Especificidad :  0.83279
+          PPV :  0.84161
+           Fm :  0.81997
+           GM :  0.81593
+          AGM :  0.83273
+          AUC :  0.90529
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.2112%)
+      Accuracy:  0.81211
+   Sensitivity:  0.80618
+Especificidad :  0.81944
+          PPV :  0.84661
+           Fm :  0.8259
+           GM :  0.81279
+          AGM :  0.81942
+          AUC :  0.88843
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.6087%)
+      Accuracy:  0.82609
+   Sensitivity:  0.82749
+Especificidad :  0.8245
+          PPV :  0.84226
+           Fm :  0.83481
+           GM :  0.82599
+          AGM :  0.82451
+          AUC :  0.89584
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.9876%)
+      Accuracy:  0.81988
+   Sensitivity:  0.81766
+Especificidad :  0.82253
+          PPV :  0.84661
+           Fm :  0.83188
+           GM :  0.82009
+          AGM :  0.82252
+          AUC :  0.89529
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.6087%)
+      Accuracy:  0.82609
+   Sensitivity:  0.80952
+Especificidad :  0.84962
+          PPV :  0.88439
+           Fm :  0.8453
+           GM :  0.82933
+          AGM :  0.84955
+          AUC :  0.91408
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.1242%)
+      Accuracy:  0.80124
+   Sensitivity:  0.80186
+Especificidad :  0.80062
+          PPV :  0.80186
+           Fm :  0.80186
+           GM :  0.80124
+          AGM :  0.80062
+          AUC :  0.89143
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (84.1615%)
+      Accuracy:  0.84161
+   Sensitivity:  0.81285
+Especificidad :  0.87762
+          PPV :  0.89264
+           Fm :  0.85088
+           GM :  0.84462
+          AGM :  0.87751
+          AUC :  0.91835
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.9193%)
+      Accuracy:  0.82919
+   Sensitivity:  0.84894
+Especificidad :  0.80831
+          PPV :  0.82405
+           Fm :  0.83631
+           GM :  0.82838
+          AGM :  0.80837
+          AUC :  0.90471
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.9193%)
+      Accuracy:  0.82919
+   Sensitivity:  0.84431
+Especificidad :  0.8129
+          PPV :  0.82941
+           Fm :  0.8368
+           GM :  0.82846
+          AGM :  0.81295
+          AUC :  0.89984
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.9006%)
+      Accuracy:  0.80901
+   Sensitivity:  0.81194
+Especificidad :  0.80583
+          PPV :  0.81928
+           Fm :  0.81559
+           GM :  0.80888
+          AGM :  0.80584
+          AUC :  0.87499
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.5901%)
+      Accuracy:  0.8059
+   Sensitivity:  0.80112
+Especificidad :  0.81185
+          PPV :  0.84118
+           Fm :  0.82066
+           GM :  0.80647
+          AGM :  0.81183
+          AUC :  0.8833
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.1242%)
+      Accuracy:  0.80124
+   Sensitivity:  0.81212
+Especificidad :  0.78981
+          PPV :  0.8024
+           Fm :  0.80723
+           GM :  0.80089
+          AGM :  0.78984
+          AUC :  0.89824
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.5404%)
+      Accuracy:  0.8354
+   Sensitivity:  0.84615
+Especificidad :  0.82353
+          PPV :  0.84118
+           Fm :  0.84366
+           GM :  0.83476
+          AGM :  0.82357
+          AUC :  0.90747
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.2981%)
+      Accuracy:  0.82298
+   Sensitivity:  0.85106
+Especificidad :  0.79365
+          PPV :  0.81159
+           Fm :  0.83086
+           GM :  0.82186
+          AGM :  0.79374
+          AUC :  0.89123
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.0745%)
+      Accuracy:  0.83075
+   Sensitivity:  0.80501
+Especificidad :  0.86316
+          PPV :  0.8811
+           Fm :  0.84134
+           GM :  0.83358
+          AGM :  0.86305
+          AUC :  0.91451
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.2981%)
+      Accuracy:  0.82298
+   Sensitivity:  0.82635
+Especificidad :  0.81935
+          PPV :  0.83133
+           Fm :  0.82883
+           GM :  0.82284
+          AGM :  0.81937
+          AUC :  0.90232
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.2112%)
+      Accuracy:  0.81211
+   Sensitivity:  0.81792
+Especificidad :  0.80537
+          PPV :  0.82991
+           Fm :  0.82387
+           GM :  0.81162
+          AGM :  0.80539
+          AUC :  0.89572
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.2112%)
+      Accuracy:  0.81211
+   Sensitivity:  0.82596
+Especificidad :  0.79672
+          PPV :  0.81871
+           Fm :  0.82232
+           GM :  0.81121
+          AGM :  0.79677
+          AUC :  0.8969
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.9006%)
+      Accuracy:  0.80901
+   Sensitivity:  0.81503
+Especificidad :  0.80201
+          PPV :  0.82698
+           Fm :  0.82096
+           GM :  0.80849
+          AGM :  0.80204
+          AUC :  0.88259
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.9006%)
+      Accuracy:  0.80901
+   Sensitivity:  0.79609
+Especificidad :  0.82517
+          PPV :  0.85075
+           Fm :  0.82251
+           GM :  0.8105
+          AGM :  0.82512
+          AUC :  0.89235
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (84.3168%)
+      Accuracy:  0.84317
+   Sensitivity:  0.83747
+Especificidad :  0.85053
+          PPV :  0.87861
+           Fm :  0.85755
+           GM :  0.84397
+          AGM :  0.85051
+          AUC :  0.91092
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.5217%)
+      Accuracy:  0.81522
+   Sensitivity:  0.82143
+Especificidad :  0.80844
+          PPV :  0.82388
+           Fm :  0.82265
+           GM :  0.81491
+          AGM :  0.80846
+          AUC :  0.88942
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.3851%)
+      Accuracy:  0.83385
+   Sensitivity:  0.80978
+Especificidad :  0.86594
+          PPV :  0.88955
+           Fm :  0.8478
+           GM :  0.83739
+          AGM :  0.86584
+          AUC :  0.90318
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.9193%)
+      Accuracy:  0.82919
+   Sensitivity:  0.81105
+Especificidad :  0.85
+          PPV :  0.86111
+           Fm :  0.83533
+           GM :  0.83029
+          AGM :  0.84993
+          AUC :  0.9084
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.5404%)
+      Accuracy:  0.8354
+   Sensitivity:  0.83668
+Especificidad :  0.8339
+          PPV :  0.8563
+           Fm :  0.84638
+           GM :  0.83529
+          AGM :  0.8339
+          AUC :  0.90204
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.5217%)
+      Accuracy:  0.81522
+   Sensitivity:  0.84821
+Especificidad :  0.77922
+          PPV :  0.80737
+           Fm :  0.82729
+           GM :  0.81299
+          AGM :  0.77933
+          AUC :  0.88973
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.0745%)
+      Accuracy:  0.83075
+   Sensitivity:  0.81105
+Especificidad :  0.85333
+          PPV :  0.86378
+           Fm :  0.83658
+           GM :  0.83192
+          AGM :  0.85326
+          AUC :  0.90609
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.3665%)
+      Accuracy:  0.81366
+   Sensitivity:  0.83282
+Especificidad :  0.79439
+          PPV :  0.80299
+           Fm :  0.81763
+           GM :  0.81338
+          AGM :  0.79445
+          AUC :  0.90557
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.677%)
+      Accuracy:  0.81677
+   Sensitivity:  0.80168
+Especificidad :  0.83566
+          PPV :  0.85928
+           Fm :  0.82948
+           GM :  0.81849
+          AGM :  0.8356
+          AUC :  0.9053
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.3851%)
+      Accuracy:  0.83385
+   Sensitivity:  0.8253
+Especificidad :  0.84295
+          PPV :  0.8483
+           Fm :  0.83664
+           GM :  0.83408
+          AGM :  0.84292
+          AUC :  0.89841
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.2298%)
+      Accuracy:  0.8323
+   Sensitivity:  0.82817
+Especificidad :  0.83737
+          PPV :  0.86217
+           Fm :  0.84483
+           GM :  0.83276
+          AGM :  0.83735
+          AUC :  0.90321
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.5901%)
+      Accuracy:  0.8059
+   Sensitivity:  0.80175
+Especificidad :  0.81063
+          PPV :  0.82831
+           Fm :  0.81481
+           GM :  0.80618
+          AGM :  0.81062
+          AUC :  0.88845
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.677%)
+      Accuracy:  0.81677
+   Sensitivity:  0.7937
+Especificidad :  0.84407
+          PPV :  0.85759
+           Fm :  0.8244
+           GM :  0.81849
+          AGM :  0.84398
+          AUC :  0.89901
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (79.1925%)
+      Accuracy:  0.79193
+   Sensitivity:  0.81191
+Especificidad :  0.77231
+          PPV :  0.77778
+           Fm :  0.79448
+           GM :  0.79186
+          AGM :  0.77237
+          AUC :  0.88095
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.7453%)
+      Accuracy:  0.80745
+   Sensitivity:  0.80802
+Especificidad :  0.80678
+          PPV :  0.83186
+           Fm :  0.81977
+           GM :  0.8074
+          AGM :  0.80678
+          AUC :  0.88915
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.764%)
+      Accuracy:  0.82764
+   Sensitivity:  0.84591
+Especificidad :  0.80982
+          PPV :  0.81269
+           Fm :  0.82897
+           GM :  0.82767
+          AGM :  0.80987
+          AUC :  0.90065
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.1429%)
+      Accuracy:  0.82143
+   Sensitivity:  0.81662
+Especificidad :  0.82712
+          PPV :  0.84821
+           Fm :  0.83212
+           GM :  0.82185
+          AGM :  0.8271
+          AUC :  0.91096
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.764%)
+      Accuracy:  0.82764
+   Sensitivity:  0.85546
+Especificidad :  0.79672
+          PPV :  0.82386
+           Fm :  0.83936
+           GM :  0.82557
+          AGM :  0.79682
+          AUC :  0.90579
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.6957%)
+      Accuracy:  0.83696
+   Sensitivity:  0.82849
+Especificidad :  0.84667
+          PPV :  0.86103
+           Fm :  0.84444
+           GM :  0.83753
+          AGM :  0.84664
+          AUC :  0.90042
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.7453%)
+      Accuracy:  0.80745
+   Sensitivity:  0.7931
+Especificidad :  0.82432
+          PPV :  0.84146
+           Fm :  0.81657
+           GM :  0.80856
+          AGM :  0.82427
+          AUC :  0.89062
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.1429%)
+      Accuracy:  0.82143
+   Sensitivity:  0.8046
+Especificidad :  0.84122
+          PPV :  0.85627
+           Fm :  0.82963
+           GM :  0.8227
+          AGM :  0.84115
+          AUC :  0.90528
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.8323%)
+      Accuracy:  0.81832
+   Sensitivity:  0.80501
+Especificidad :  0.83509
+          PPV :  0.86012
+           Fm :  0.83165
+           GM :  0.81991
+          AGM :  0.83503
+          AUC :  0.89515
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (81.2112%)
+      Accuracy:  0.81211
+   Sensitivity:  0.80952
+Especificidad :  0.81533
+          PPV :  0.84503
+           Fm :  0.8269
+           GM :  0.81242
+          AGM :  0.81532
+          AUC :  0.88985
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.2298%)
+      Accuracy:  0.8323
+   Sensitivity:  0.82188
+Especificidad :  0.84259
+          PPV :  0.83758
+           Fm :  0.82965
+           GM :  0.83217
+          AGM :  0.84256
+          AUC :  0.89482
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (83.5404%)
+      Accuracy:  0.8354
+   Sensitivity:  0.83041
+Especificidad :  0.84106
+          PPV :  0.85542
+           Fm :  0.84273
+           GM :  0.83572
+          AGM :  0.84104
+          AUC :  0.91035
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.5901%)
+      Accuracy:  0.8059
+   Sensitivity:  0.79769
+Especificidad :  0.81544
+          PPV :  0.83384
+           Fm :  0.81536
+           GM :  0.80651
+          AGM :  0.81541
+          AUC :  0.87862
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.9193%)
+      Accuracy:  0.82919
+   Sensitivity:  0.82521
+Especificidad :  0.8339
+          PPV :  0.8546
+           Fm :  0.83965
+           GM :  0.82955
+          AGM :  0.83388
+          AUC :  0.90182
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.1429%)
+      Accuracy:  0.82143
+   Sensitivity:  0.82405
+Especificidad :  0.81848
+          PPV :  0.83631
+           Fm :  0.83013
+           GM :  0.82126
+          AGM :  0.81849
+          AUC :  0.89907
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (82.4534%)
+      Accuracy:  0.82453
+   Sensitivity:  0.83333
+Especificidad :  0.81379
+          PPV :  0.84527
+           Fm :  0.83926
+           GM :  0.82351
+          AGM :  0.81383
+          AUC :  0.88292
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.1242%)
+      Accuracy:  0.80124
+   Sensitivity:  0.81009
+Especificidad :  0.79153
+          PPV :  0.81009
+           Fm :  0.81009
+           GM :  0.80076
+          AGM :  0.79156
+          AUC :  0.88666
+Total de Caracteristicas:  14
+       Total de Muestras:  1610
+ Total de Regiones Sanas:  772
+       Regiones No sanas:  838
+
+ans =
+
+     0
+
+Maximum number of iterations has been exceeded
+Network Confusion Matrix (80.4348%)
+      Accuracy:  0.80435
+   Sensitivity:  0.8048
+Especificidad :  0.80386
+          PPV :  0.81459
+           Fm :  0.80967
+           GM :  0.80433
+          AGM :  0.80386
+          AUC :  0.90165
+>> >> Media:
+>> 
+ans =
+
+  Columns 1 through 7
+
+    0.8198    0.8174    0.8233    0.8427    0.8295    0.8202    0.8233
+
+  Column 8
+
+    0.8977
+
+>> >> Media:
+>> Maximum number of iterations has been exceeded
+          AUC :  0.90331
+Maximum number of iterations has been exceeded
+          AUC :  0.89085
+Maximum number of iterations has been exceeded
+          AUC :  0.89023
+Maximum number of iterations has been exceeded
+          AUC :  0.921
+Maximum number of iterations has been exceeded
+          AUC :  0.93491
+Maximum number of iterations has been exceeded
+          AUC :  0.876
+Maximum number of iterations has been exceeded
+          AUC :  0.93422
+Maximum number of iterations has been exceeded
+          AUC :  0.91729
+Maximum number of iterations has been exceeded
+          AUC :  0.8757
+Maximum number of iterations has been exceeded
+          AUC :  0.92208
+>>            CV :  0.90656
+>> 
