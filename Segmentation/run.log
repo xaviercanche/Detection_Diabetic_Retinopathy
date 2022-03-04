@@ -1,0 +1,181 @@
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012a (7.14.0.739) 64-bit (glnxa64)
+                              February 9, 2012
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> Starting matlabpool using the 'local' profile ... connected to 12 labs.
+>> >> >> 17464F 
+22900D 
+34210C 
+54960A 
+86213F 
+131267F 
+206974C 
+230923C 
+245952A 
+252422B 
+277524E 
+278009E 
+277524D 
+245900F 
+278009D 
+131267E 
+252422A 
+230923B 
+206974B 
+40772F 
+17464E 
+22900C 
+86213E 
+34210B 
+277524C 
+278009C 
+131267D 
+245900E 
+245952F 
+230923A 
+206974A 
+17464D 
+86213D 
+22900B 
+40772E 
+34210A 
+277524B 
+278009B 
+103376F 
+245900D 
+245952E 
+230821F 
+166566F 
+17464C 
+277524A 
+86213C 
+278009A 
+22900A 
+27695F 
+245900B 
+40772D 
+103376E 
+245952D 
+230821E 
+166566E 
+252422F 
+277524F 
+245900A 
+103376D 
+245952C 
+  698F 
+86213B 
+22550F 
+35212F 
+27695E 
+166566D 
+230821D 
+280138F 
+285133E 
+230923E 
+90931D 
+245952B 
+86213A 
+  698E 
+22550E 
+27695D 
+35212E 
+280138E 
+285133D 
+230923D 
+90931C 
+166566C 
+230821B 
+296264A 
+54960E 
+280138D 
+285133C 
+22550D 
+  698D 
+27695C 
+296264E 
+35212D 
+90931B 
+292484F 
+166566B 
+230821A 
+280138A 
+285133B 
+296264D 
+90931A 
+54960D 
+22550C 
+  698C 
+27695A 
+34210F 
+292484E 
+166566A 
+278009F 
+365894E 
+285133A 
+296264C 
+379832C 
+54960C 
+22900F 
+22550B 
+  698B 
+34210E 
+384314D 
+396779A 
+292484D 
+396779F 
+296264B 
+365894D 
+379832B 
+54960B 
+384314B 
+384314F 
+22550A 
+22900E 
+34210D 
+409580B 
+  698A 
+396779C 
+285133F 
+365894C 
+384314A 
+379832A 
+384314E 
+409580A 
+409580D 
+396779B 
+440888C 
+440888E 
+455661B 
+456332B 
+508481A 
+508481C 
+508481E 
+513699D 
+296264F 
+409580C 
+365894F 
+531420D 
+440888D 
+455661A 
+409580F 
+455661C 
+456332C 
+508481B 
+508481D 
+508481F 
+531420F 
+513699E 
+531420E 
+>> Sending a stop signal to all the labs ... stopped.
+>> >> 
