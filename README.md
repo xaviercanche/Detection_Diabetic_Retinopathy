@@ -8,10 +8,10 @@ The Diabetic Retinopathy (DR) is a visual complication of diabetes and one of th
 <img src="image006.png" width="300">          <img src="Mej-image006.png" width="300">
 
 ## Segmentation of Hard Exudates Regions  
-<img src="segmentation.png" width="300">  
+<img src="segmentation.png" width="600">  
 
 ## Optical Disk Detection  
-<img src="disk.png" width="300">  
+<img src="disk.png" width="400">  
 
 ## Results  
-<img src="results.png" width="300">  
+<img src="results.png" width="500">  
